@@ -31,7 +31,7 @@ Hetereogeneous computing is a system that uses more than one type of processor o
 
 # Speaker Biographies
 ## Dr.Pawan Prasad
-![Dr.Pawan Prasad](/assets/pawan.jpg =1000x1000"Dr.Pawan Prasad")  
+![Dr.Pawan Prasad](/assets/pawan.jpg =1000x1000 "Dr.Pawan Prasad")  
 Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India Bangalore, where he leads the development of advanced interaction technologies for head-mounted displays, including hand tracking and eye tracking. He brings over 15 years of experience in computer vision and computational imaging, with AI playing a central role throughout his work. He received his MS and PhD degrees from IIT Madras and has authored more than 40 patents and over 25 research publications.
 
 ## Basavaraja Vandrotti
