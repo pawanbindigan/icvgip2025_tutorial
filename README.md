@@ -5,27 +5,27 @@ Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technolo
 
 
 ## Introduction
-Speaker: Kiran Nanjunda Iyer
+Speaker: Kiran Nanjunda Iyer  
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
 ## Image Signal Processor
-Speaker: Dr.Saurabh
+Speaker: Dr.Saurabh  
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
 ## Multi-Frame Processing
-Speaker: Nutan Sairam
+Speaker: Nutan Sairam  
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
 ## Computational Methods for Image Artefact Removal
-Speaker: Dr.Pawan Prasad
+Speaker: Dr.Pawan Prasad  
 Computational methods are transforming the way we handle common image artifacts like reflections and shadows. These issues significantly compromise image fidelity and challenge downstream computer vision tasks by concealing true scene content and distorting illumination. This talk dives into cutting edge approaches from physics based modelling to deep learning - designed to robustly separate artifacts from the authentic image data. We will examine specific techniques, including single image reflection removal using deep neural networks and inverse rendering strategies for realistic shadow elimination. The goal of these methods is to restore visual integrity, thereby boosting the reliability and accuracy of systems used in autonomous navigation, medical imaging and professional photo editing.
 
 ## Depth Perception and its Role in Depth-Based Reprojection
-Speaker: Basavaraja Vandrotti
+Speaker: Basavaraja Vandrotti  
 Depth perception is essential for geometric aware passthrough in head mounted displays. By accurately estimating the distance and shape of real world objects, the system can reconstruct a precise geometric understanding of the environment. This depth information enables depth based reprojecion, allowing the passthrough view to be correctly warped and stabilized as the user moves their head. As a result, virtual and real elements align more naturally, reducing motion artifacts and enhancing comfort, immersion and situational awareness.
 
 ## Heterogeneos Computing
-Speaker: Sujoy Saha
+Speaker: Sujoy Saha  
 Hetereogeneous computing is a system that uses more than one type of processor or core, such as a combination of CPUs, GPUs, and DSPs, to perform tasks more efficiently. This approach assigns specific workloads to the processor that is best suited for the job, leading to improved performance and energy efficiency compared to using only one type of processor. Hetereogeneous computing is essential in modern computer vision and image understanding, which require intense computational power and real time processing. It is a prevailing trend driven by the demands of complex AI and Computer Vision applications, offering the best balance of performance, power and efficiency.
 
 
