@@ -1,5 +1,9 @@
 # Tutorial on Advanced 2D & 3D Imaging for Mobile Systems
 
+Abstract
+Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
+
+
 ## Introduction
 Speaker: Kiran Nanjunda Iyer
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
@@ -25,7 +29,7 @@ Speaker: Sujoy Saha
 Hetereogeneous computing is a system that uses more than one type of processor or core, such as a combination of CPUs, GPUs, and DSPs, to perform tasks more efficiently. This approach assigns specific workloads to the processor that is best suited for the job, leading to improved performance and energy efficiency compared to using only one type of processor. Hetereogeneous computing is essential in modern computer vision and image understanding, which require intense computational power and real time processing. It is a prevailing trend driven by the demands of complex AI and Computer Vision applications, offering the best balance of performance, power and efficiency.
 
 
-Speaker Biographies
+# Speaker Biographies
 ![Dr.Pawan Prasad](/assets/pawan.jpg "Dr.Pawan Prasad")
 Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India Bangalore, where he leads the development of advanced interaction technologies for head-mounted displays, including hand tracking and eye tracking. He brings over 15 years of experience in computer vision and computational imaging, with AI playing a central role throughout his work. He received his MS and PhD degrees from IIT Madras and has authored more than 40 patents and over 25 research publications.
 
