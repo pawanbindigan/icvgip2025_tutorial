@@ -1,6 +1,6 @@
 # Tutorial on Advanced 2D & 3D Imaging for Mobile Systems
 
-Abstract
+## Abstract
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
 
@@ -30,9 +30,11 @@ Hetereogeneous computing is a system that uses more than one type of processor o
 
 
 # Speaker Biographies
+## Dr.Pawan Prasad
 ![Dr.Pawan Prasad](/assets/pawan.jpg "Dr.Pawan Prasad")  
 Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India Bangalore, where he leads the development of advanced interaction technologies for head-mounted displays, including hand tracking and eye tracking. He brings over 15 years of experience in computer vision and computational imaging, with AI playing a central role throughout his work. He received his MS and PhD degrees from IIT Madras and has authored more than 40 patents and over 25 research publications.
 
+## Basavaraja Vandrotti
 ![Basava](/assets/basava.jpg "Basavaraja Vandrotti")  
 Basavaraja is the Head of the XR Scene Perception at Samsung R&D Institute India Bangalore, where he leads the development of advanced scene perception technologies for depth estimation, scene understanding and passthrough. He brings over xx years of experience in computer vision. xxxxxxxxxxxxxxxx TBD
 
