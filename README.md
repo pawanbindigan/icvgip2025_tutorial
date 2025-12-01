@@ -41,14 +41,13 @@ Hetereogeneous computing is a system that uses more than one type of processor o
 ![Kiran Iyer](/assets/kiran.jpg "Kiran Nanjunda Iyer")  
 Kiran Nanjunda Iyer holds the position of Senior Director at Samsung R&D Institute India Bangalore, where he heads the XR Perception Group. 
 
-
 ## Dr.Pawan Prasad
 ![Dr.Pawan Prasad](/assets/pawan.jpg "Dr.Pawan Prasad")  
 Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India Bangalore, where he leads the development of advanced interaction technologies for head-mounted displays, including hand tracking and eye tracking. He brings over 15 years of experience in computer vision and computational imaging, with AI playing a central role throughout his work. He received his MS and PhD degrees from IIT Madras and has authored more than 40 patents and over 25 research publications.
 
 ## Basavaraja Vandrotti
 ![Basava](/assets/basava.jpg "Basavaraja Vandrotti")  
-Basavaraja is the Head of the XR Scene Perception at Samsung R&D Institute India Bangalore, where he leads the development of advanced scene perception technologies for depth estimation, scene understanding and passthrough. He brings over xx years of experience in computer vision. xxxxxxxxxxxxxxxx TBD
+Basavaraja Vandrotti is the Head of the XR Scene Perception at Samsung R&D Institute India Bangalore, where he leads the development of advanced scene perception technologies for depth estimation, scene understanding and passthrough. Prior to Samsung, he was with Nokia Inc., India and USA, with responsibilities in developing computer vision solutions for smartphones & AR/VR devices. He holds a Master degree from Indian Institute of Science (IISc) Bangalore. He has 20 years of professional experience in Computer Vision and Machine Learning, and published around 18+ international conference papers and 40+ patents
 
 ## Dr.Saurabh Kumar  
 ![Saurabh](/assets/saurabh.jpg "Dr.Saurabh Kumar")  
