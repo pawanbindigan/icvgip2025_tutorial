@@ -1,19 +1,28 @@
 # Tutorial on Advanced 2D & 3D Imaging for Mobile Systems
 
-## Abstract
+## Abstract  
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
-## Introduction
+## Introduction  
 Speaker: Kiran Nanjunda Iyer  
-Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
+Advanced 2D & 3D Imaging for Mobile Systems tutorial which explores advanced imaging technologies for smartphones and HMDs, including AI ISPs, multi-frame processing, and depth-based reprojection, alongside heterogeneous computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities.
 
-## Image Signal Processor
-Speaker: Dr.Saurabh  
-Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
-
-## Multi-Frame Processing
+## Image Signal Processor  
 Speaker: Nutan Sairam  
-Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
+Image Signal Processing (ISP) technology is an indispensable part of digital imaging systems, responsible for converting raw data captured by image sensors (usually in RAW format) into final, high-quality images. The evolution of ISP technology from traditional ISP to computer vision and then to artificial intelligence has been significant. We will cover this journey for smartphones.
+
+### Hardware ISP  
+Early ISPs relied mainly on hardware and fixed algorithms to process images. These processing steps included Demosaicing (converting RAW images into RGB images), white balance adjustment, colour correction, sharpening, noise suppression, etc.  
+Advantages: Due to the fixed processing steps, traditional ISPs could achieve fast, real-time image processing suitable for early digital cameras and mobile phones.  
+Limitations: Fixed algorithms struggled to cope with all shooting conditions, especially in low light or high dynamic range environments, often resulting in less-than-ideal image quality.
+
+### Software Enhanced ISP  
+With the development of computer vision and imaging technology, ISPs began to integrate more vision-based functionalities, such as multi-frame processing to improve image processing effects. SW-ISP can co-work with Hardware ISP for pre /post processing refinements.  
+Advantages: Evolution of Computer Vision and Computational Imaging algorithms (such as multi-frame alignment, merging, exposure fusion, tone mapping) helped to improve image quality, for example, by dynamically adjusting motion blur, detail, noise, exposure and brightness based on scene content analysis.  
+
+## AI-Powered ISP (AI-ISP)
+Speaker: Dr.Saurabh Kumar  
+In recent years, the development of artificial intelligence and deep learning has completely changed the landscape of ISP. AI-ISP uses vast amounts of data and deep neural networks to learn the best ways to process images. AI-ISP is particularly effective in various image restoration tasks such as Demosaicing, denoising, super-resolution etc, producing high-quality images that are difficult to achieve with SW-ISP. Beyond basic image processing tasks, AI-ISP can also perform advanced functions such as multi-frame merging, multi-resolution fusion etc further enhancing the image quality. AI-ISP powered several new use cases like Nightography and High-resolution (50M/200M) imaging.
 
 ## Computational Methods for Image Artefact Removal
 Speaker: Dr.Pawan Prasad  
@@ -28,6 +37,11 @@ Speaker: Sujoy Saha
 Hetereogeneous computing is a system that uses more than one type of processor or core, such as a combination of CPUs, GPUs, and DSPs, to perform tasks more efficiently. This approach assigns specific workloads to the processor that is best suited for the job, leading to improved performance and energy efficiency compared to using only one type of processor. Hetereogeneous computing is essential in modern computer vision and image understanding, which require intense computational power and real time processing. It is a prevailing trend driven by the demands of complex AI and Computer Vision applications, offering the best balance of performance, power and efficiency.
 
 # Speaker Biographies
+## Kiran Nanjunda Iyer
+![Kiran Iyer](/assets/kiran.jpg "Kiran Nanjunda Iyer")  
+Kiran Nanjunda Iyer holds the position of Senior Director at Samsung R&D Institute India Bangalore, where he heads the XR Perception Group. 
+
+
 ## Dr.Pawan Prasad
 ![Dr.Pawan Prasad](/assets/pawan.jpg "Dr.Pawan Prasad")  
 Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India Bangalore, where he leads the development of advanced interaction technologies for head-mounted displays, including hand tracking and eye tracking. He brings over 15 years of experience in computer vision and computational imaging, with AI playing a central role throughout his work. He received his MS and PhD degrees from IIT Madras and has authored more than 40 patents and over 25 research publications.
@@ -39,8 +53,11 @@ Basavaraja is the Head of the XR Scene Perception at Samsung R&D Institute India
 ## Dr.Saurabh Kumar  
 ![Saurabh](/assets/saurabh.jpg "Dr.Saurabh Kumar")  
 Dr.Saurabh Kumar is a researcher at Samsung R&D as part of the Computational Imaging Group. Before that, I did a Postdoc with Intelligence and Sensing Lab at Osaka University, working on Computational 3D Sensing and Computational Optics for Computer Vision. My Ph.D. was in Computational Imaging and Vision; I was part of the Vision and Image Processing Group at IIT Bombay, supervised by Subhasis Chaudhuri.  
-[Dr.Saurabh Kumar https://saurabhkm.github.io](https://saurabhkm.github.io/)
+[https://saurabhkm.github.io](https://saurabhkm.github.io/)
 
+## Nutan Sairam
+![Nutan](/assets/nutan.jpg "Nutan")
+Nutan is working in AI Computational ISP team at Samsung R&D Institute India Bangalore, where he leads the development of Multi-Frame processing solutions for Samsung flagship phones. He brings over 16 years of experience in Image/Video processing, computer vision and computational imaging. He received his M.Tech in Electrical Engineering from IIT Kanpur and has authored 3 patents and 2 research publications.
 
 
 
