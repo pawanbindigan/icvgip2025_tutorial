@@ -36,4 +36,15 @@ Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India 
 ![Basava](/assets/basava.jpg "Basavaraja Vandrotti")  
 Basavaraja is the Head of the XR Scene Perception at Samsung R&D Institute India Bangalore, where he leads the development of advanced scene perception technologies for depth estimation, scene understanding and passthrough. He brings over xx years of experience in computer vision. xxxxxxxxxxxxxxxx TBD
 
+## Dr.Saurabh Kumar  
+![Saurabh](/assets/saurabh.jpg "Dr.Saurabh Kumar")  
+Dr.Saurabh Kumar is a researcher at Samsung R&D as part of the Computational Imaging Group. Before that, I did a Postdoc with Intelligence and Sensing Lab at Osaka University, working on Computational 3D Sensing and Computational Optics for Computer Vision. My Ph.D. was in Computational Imaging and Vision; I was part of the Vision and Image Processing Group at IIT Bombay, supervised by Subhasis Chaudhuri.  
+[Dr.Saurabh Kumar https://saurabhkm.github.io](https://saurabhkm.github.io/)
+
+
+
+
+
+
+
 
