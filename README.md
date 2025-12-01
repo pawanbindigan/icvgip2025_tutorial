@@ -3,11 +3,11 @@
 ## Abstract  
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
-## Introduction  
+## Introduction to Mobile Imaging Systems 
 Speaker: Kiran Nanjunda Iyer  
 Advanced 2D & 3D Imaging for Mobile Systems tutorial which explores advanced imaging technologies for smartphones and HMDs, including AI ISPs, multi-frame processing, and depth-based reprojection, alongside heterogeneous computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities.
 
-## Image Signal Processor  
+## Image Signal Processing  
 Speaker: Nutan Sairam  
 Image Signal Processing (ISP) technology is an indispensable part of digital imaging systems, responsible for converting raw data captured by image sensors (usually in RAW format) into final, high-quality images. The evolution of ISP technology from traditional ISP to computer vision and then to artificial intelligence has been significant. We will cover this journey for smartphones.
 
@@ -38,7 +38,7 @@ Hetereogeneous computing is a system that uses more than one type of processor o
 
 # Speaker Biographies
 ## Kiran Nanjunda Iyer
-![Kiran Iyer](/assets/kiran.jpg "Kiran Nanjunda Iyer")  
+![Kiran Iyer](./assets/kiran.jpg "Kiran Nanjunda Iyer")  
 Kiran Nanjunda Iyer holds the position of Senior Director at Samsung R&D Institute India Bangalore, where he heads the XR Perception Group. 
 
 ## Dr.Pawan Prasad
