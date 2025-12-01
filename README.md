@@ -55,7 +55,7 @@ Dr.Saurabh Kumar is a researcher at Samsung R&D as part of the Computational Ima
 [https://saurabhkm.github.io](https://saurabhkm.github.io/)
 
 ## Nutan Sairam
-![Nutan](./assets/nutan.jpg "Nutan")
+![Nutan](./assets/nutan.jpg "Nutan")  
 Nutan is working in AI Computational ISP team at Samsung R&D Institute India Bangalore, where he leads the development of Multi-Frame processing solutions for Samsung flagship phones. He brings over 16 years of experience in Image/Video processing, computer vision and computational imaging. He received his M.Tech in Electrical Engineering from IIT Kanpur and has authored 3 patents and 2 research publications.
 
 
