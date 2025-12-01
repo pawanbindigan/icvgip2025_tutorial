@@ -42,20 +42,20 @@ Hetereogeneous computing is a system that uses more than one type of processor o
 Kiran Nanjunda Iyer holds the position of Senior Director at Samsung R&D Institute India Bangalore, where he heads the XR Perception Group. 
 
 ## Dr.Pawan Prasad
-![Dr.Pawan Prasad](/assets/pawan.jpg "Dr.Pawan Prasad")  
+![Dr.Pawan Prasad](./assets/pawan.jpg "Dr.Pawan Prasad")  
 Dr.Pawan is the Head of the XR Interactions team at Samsung R&D Institute India Bangalore, where he leads the development of advanced interaction technologies for head-mounted displays, including hand tracking and eye tracking. He brings over 15 years of experience in computer vision and computational imaging, with AI playing a central role throughout his work. He received his MS and PhD degrees from IIT Madras and has authored more than 40 patents and over 25 research publications.
 
 ## Basavaraja Vandrotti
-![Basava](/assets/basava.jpg "Basavaraja Vandrotti")  
+![Basava](./assets/basava.jpg "Basavaraja Vandrotti")  
 Basavaraja Vandrotti is the Head of the XR Scene Perception at Samsung R&D Institute India Bangalore, where he leads the development of advanced scene perception technologies for depth estimation, scene understanding and passthrough. Prior to Samsung, he was with Nokia Inc., India and USA, with responsibilities in developing computer vision solutions for smartphones & AR/VR devices. He holds a Master degree from Indian Institute of Science (IISc) Bangalore. He has 20 years of professional experience in Computer Vision and Machine Learning, and published around 18+ international conference papers and 40+ patents
 
 ## Dr.Saurabh Kumar  
-![Saurabh](/assets/saurabh.jpg "Dr.Saurabh Kumar")  
+![Saurabh](./assets/saurabh.jpg "Dr.Saurabh Kumar")  
 Dr.Saurabh Kumar is a researcher at Samsung R&D as part of the Computational Imaging Group. Before that, I did a Postdoc with Intelligence and Sensing Lab at Osaka University, working on Computational 3D Sensing and Computational Optics for Computer Vision. My Ph.D. was in Computational Imaging and Vision; I was part of the Vision and Image Processing Group at IIT Bombay, supervised by Subhasis Chaudhuri.  
 [https://saurabhkm.github.io](https://saurabhkm.github.io/)
 
 ## Nutan Sairam
-![Nutan](/assets/nutan.jpg "Nutan")
+![Nutan](./assets/nutan.jpg "Nutan")
 Nutan is working in AI Computational ISP team at Samsung R&D Institute India Bangalore, where he leads the development of Multi-Frame processing solutions for Samsung flagship phones. He brings over 16 years of experience in Image/Video processing, computer vision and computational imaging. He received his M.Tech in Electrical Engineering from IIT Kanpur and has authored 3 patents and 2 research publications.
 
 
