@@ -27,7 +27,6 @@ Depth perception is essential for geometric aware passthrough in head mounted di
 Speaker: Sujoy Saha  
 Hetereogeneous computing is a system that uses more than one type of processor or core, such as a combination of CPUs, GPUs, and DSPs, to perform tasks more efficiently. This approach assigns specific workloads to the processor that is best suited for the job, leading to improved performance and energy efficiency compared to using only one type of processor. Hetereogeneous computing is essential in modern computer vision and image understanding, which require intense computational power and real time processing. It is a prevailing trend driven by the demands of complex AI and Computer Vision applications, offering the best balance of performance, power and efficiency.
 
-
 # Speaker Biographies
 ## Dr.Pawan Prasad
 ![Dr.Pawan Prasad](/assets/pawan.jpg "Dr.Pawan Prasad")  
