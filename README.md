@@ -3,7 +3,6 @@
 ## Abstract
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
 
-
 ## Introduction
 Speaker: Kiran Nanjunda Iyer  
 Advanced 2D and 3D Imaging for Mobile Systems explored advanced imaging technologies for smartphones and Head Mounted Displays, including AI ISPs, Multi-Frame Processing and depth based reprojection, alongside heterogeneos computing for efficient edge porting. It aims to provide insights into the latest innovations shaping modern device capabilities
