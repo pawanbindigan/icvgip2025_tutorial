@@ -59,7 +59,7 @@ Dr.Saurabh Kumar is a researcher at Samsung R&D as part of the Computational Ima
 Nutan is working in AI Computational ISP team at Samsung R&D Institute India Bangalore, where he leads the development of Multi-Frame processing solutions for Samsung flagship phones. He brings over 16 years of experience in Image/Video processing, computer vision and computational imaging. He received his M.Tech in Electrical Engineering from IIT Kanpur and has authored 3 patents and 2 research publications.
 
 ## Sujoy Saha
-![Sujoy](./assets/sujoy.jpg "Sujoy")
+![Sujoy](./assets/sujoy.jpg "Sujoy")  
 Sujoy Saha is the Head of XR Positional Tracking at the Samsung R&D Institute India, Bangalore. In this role, he leads the development of advanced Localization, Tracking, Mapping, and Calibration technologies specifically designed for Augmented reality (AR), Virtual reality (VR), and Extended reality (XR) devices. He holds a Postgraduate degree in Radio-Physics & Electronics from the University of Calcutta and brings approximately 19 years of professional experience spanning Heterogeneous Computing, Computer Vision, and Machine Learning. Holding over 25 published patents.  
 
 
