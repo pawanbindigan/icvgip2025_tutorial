@@ -39,7 +39,7 @@ Hetereogeneous computing is a system that uses more than one type of processor o
 # Speaker Biographies
 ## Kiran Nanjunda Iyer
 ![Kiran Iyer](./assets/kiran.jpg "Kiran Nanjunda Iyer")  
-Kiran Nanjunda Iyer holds the position of Senior Director at Samsung R&D Institute India Bangalore, where he heads the XR Perception Group. 
+Kiran Nanjunda Iyer is a Senior Principal Architect with over 24 years of industry experience, including 18 years at Samsung R&D Institute India Bangalore. His expertise spans XR, 2D/3D Computer Vision, Artificial Intelligence, multimedia signal processing and embedded systems. He currently leads XR Perception Group at Samsung R&D, managing a 70+ member R&D team focussed on advaced 3D Vision algorithms, and has successfully driven the commercialization of Samsung's first XR product. Previously, he headed the Visual Understanding Group, where he led and commercialized many vision solutions for mobile.
 
 ## Dr.Pawan Prasad
 ![Dr.Pawan Prasad](./assets/pawan.jpg "Dr.Pawan Prasad")  
